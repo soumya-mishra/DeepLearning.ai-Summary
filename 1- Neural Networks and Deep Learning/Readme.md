@@ -546,7 +546,7 @@ the slope will be near zero which will cause us the gradient decent problem.
   # Hint there are transposes with multiplication because to keep dimensions correct
   ```
 - How we derived the 6 equations of the backpropagation:   
-  ![](Images/06.png)
+ ![](Images/06.png)
 
 ### Random Initialization
 
