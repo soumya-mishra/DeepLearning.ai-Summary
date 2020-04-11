@@ -148,7 +148,7 @@ Here are the course summary as its given on the course [link](https://www.course
     - W<sub>ax</sub>: (NoOfHiddenNeurons, n<sub>x</sub>)
     - W<sub>aa</sub>: (NoOfHiddenNeurons, NoOfHiddenNeurons)
     - W<sub>ya</sub>: (n<sub>y</sub>, NoOfHiddenNeurons)
-  ![]https://github.com/soumya-mishra/DeepLearning.ai-Summary/blob/master/5-%20Sequence%20Models/Images/Capture.PNG
+    ![](Images/Capture.PNG)
 - The weight matrix W<sub>aa</sub> is the memory the RNN is trying to maintain from the previous layers.
 - A lot of papers and books write the same architecture this way:  
   ![](Images/03.png)
