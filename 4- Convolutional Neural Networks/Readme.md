@@ -99,7 +99,8 @@ Here is the course summary as given on the course [link](https://www.coursera.or
 - One of the solutions is to build this using **convolution layers** instead of the **fully connected layers**.
 
 ### Edge detection example
-
+0 - black
+255- white
 - The convolution operation is one of the fundamentals blocks of a CNN. One of the examples about convolution is the image edge detection operation.
 - Early layers of CNN might detect edges then the middle layers will detect parts of objects and the later layers will put the these parts together to produce an output.
 - In an image we can detect vertical edges, horizontal edges, or full edge detector.
