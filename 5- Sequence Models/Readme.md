@@ -350,6 +350,7 @@ Here are the course summary as its given on the course [link](https://www.course
 - In GRU we have an update gate `U`, a relevance gate `r`, and a candidate cell variables C<sup>\~\<t></sup> while in LSTM we have an update gate `U` (sometimes it's called input gate I), a forget gate `F`, an output gate `O`, and a candidate cell variables C<sup>\~\<t></sup>
 - Drawings (inspired by http://colah.github.io/posts/2015-08-Understanding-LSTMs/):    
   ![](Images/22.png)
+  ![](https://github.com/soumya-mishra/AI_DS_ML/blob/master/Deep%20Learning/LSTM.PNG)
 - Some variants on LSTM includes:
   - LSTM with **peephole connections**.
     - The normal LSTM with C<sup>\<t-1></sup> included with every gate.
