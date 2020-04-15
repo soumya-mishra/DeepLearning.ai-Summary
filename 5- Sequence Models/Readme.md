@@ -541,6 +541,7 @@ Here are the course summary as its given on the course [link](https://www.course
   - If this number is larger say 1 million, the computation will become very slow.
 - One of the solutions for the last problem is to use "**Hierarchical softmax classifier**" which works as a tree classifier.   
   ![](Images/40.png)
+  - Time complexity of hierarchical softmax is O(logn) time
 - In practice, the hierarchical softmax classifier doesn't use a balanced tree like the drawn one. Common words are at the top and less common are at the bottom.
 - How to sample the context **c**?
   - One way is to choose the context by random from your corpus.
